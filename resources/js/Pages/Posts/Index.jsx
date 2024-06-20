@@ -10,6 +10,7 @@ const Index = ({ posts }) => {
     };
 
     return (
+        
         <div class="text-center">
             <br />
 <h1 class="text-5xl font-extrabold dark:text-white">Posts</h1>
